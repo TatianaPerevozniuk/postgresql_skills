@@ -46,11 +46,11 @@ Cоздание и изменение базы данных и таблицы п
 В модуле project_4:
 Описание проекта в файле project_description.
 Первая часть проекта — оптимизация базы данных:
-Для первой части заданий разверните дамп базы данных -
+Для первой части заданий разверните дамп базы данных - [project_4.sql](https://code.s3.yandex.net/data-analyst/SQL_dev/project_4.sql)
 скачать дамп по ссылке https://code.s3.yandex.net/data-analyst/SQL_dev/project_4.sql
 
 Вторая часть проекта — оптимизация запросов:
-Разверните дамп базы данных - 
+Разверните дамп базы данных - [project_4_part2.sql](https://code.s3.yandex.net/data-analyst/SQL_dev/project_4_part2.sql)
 скачать дамп по ссылке https://code.s3.yandex.net/data-analyst/SQL_dev/project_4_part2.sql
 В файле user_scripts_pr4.sql — пользовательские скрипты, которые выполняются на базе данных. Выполните их на своём компьютере. 
 Проверьте, что в вашей СУБД включён модуль pg_stat_statements — это обязательное условие. 
